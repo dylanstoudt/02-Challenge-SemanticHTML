@@ -1,2 +1,35 @@
 # 02-Challenge-SemanticHTML
-FIrst challenge in boot camp course, taking base code and editing it to flow smoother and be more accessible to users. 
+
+## Description
+
+Show understanding of editing HTML.
+
+## Getting Started
+
+N/A
+
+### Dependencies
+
+N/A
+
+### Installing
+
+N/A
+
+## Help
+
+N/A
+
+## Authors
+
+Dylan Stoudt
+
+## Version History
+
+N/A
+
+## License
+
+N/A
+
+## Acknowledgments
