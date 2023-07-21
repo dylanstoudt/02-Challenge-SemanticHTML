@@ -43,9 +43,9 @@ p {
     font-size: 16px;
 }
 
-/* Displays source img inbetween header and main */
+/* formatting for img */
 .hero {
-    height: 800px;
+    height: 1000px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
